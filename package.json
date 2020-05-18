@@ -1,0 +1,27 @@
+{
+  "name": "hielina",
+  "version": "1.0.0",
+  "description": "get admin panel on windows.",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightdvlpr/v8app.git"
+  },
+  "keywords": [
+    "desktop-app"
+  ],
+  "author": "Amir Rahimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nightdvlpr/v8app/issues"
+  },
+  "homepage": "https://github.com/nightdvlpr/v8app#readme"
+}
